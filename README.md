@@ -13,8 +13,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java |
-- 🌐 &nbsp; flutter | HTML | CSS | JavaScript |  
+- 💻 &nbsp; Python 
+- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | React  
 - 🛢 &nbsp; MySQL | Postgre | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | 
