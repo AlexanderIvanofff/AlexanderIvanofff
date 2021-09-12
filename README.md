@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Software Engineering.
+- 🔭 &nbsp; Software Developer at Strypes.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; Python developer and front-end web developer.
+- 💼 &nbsp; Python and C++ developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Playing video games.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 
+- 💻 &nbsp; Python | C++
 - 🌐 &nbsp; flutter | HTML | CSS | JavaScript | React  
 - 🛢 &nbsp; MySQL | Postgre | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
